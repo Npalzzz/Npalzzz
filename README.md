@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Npalzzz
-- 👀 I’m interested in History And Military Vehicles
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me idk
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i have no rizz
+- Sup Im Npalzzz
+- Newbie Programmer still learning
+- I <3 Metal 
 
 <!---
 Npalzzz/Npalzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
