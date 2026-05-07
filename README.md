@@ -8,7 +8,7 @@
 
 **Newbie Programmer and Vibe Coder**
 
-*Student · Indonesia 🇮🇩 
+Student · Indonesia 🇮🇩 
 </div>
 
 ---
