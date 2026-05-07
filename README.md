@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-⚡ FOR WHOM THE BELL TOLLS... THE CODE COMPILES ⚡
+
 ```
 
 # Hey, I'm **Npalzzz** 
@@ -39,13 +39,3 @@ const npalzzz = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-
-
-⚡ "The thing that dreams are made of" — and so is good code. ⚡
-```
-
-*🤘 Metallica fan. Web dev student. Vibe coder. Indonesia. 🤘*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Npalzzz&style=flat-square&color=grey)
-
-</div>
