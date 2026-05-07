@@ -4,14 +4,11 @@
 ⚡ FOR WHOM THE BELL TOLLS... THE CODE COMPILES ⚡
 ```
 
-# Hey, I'm **Npalzzz** 🤘
+# Hey, I'm **Npalzzz** 
 
 **Newbie Programmer and Vibe Coder**
 
-*Student · Indonesia 🇮🇩 · Web Developer in the Making*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0A0A0&center=true&vCenter=true&width=435&lines=Enter+Sandman...+Enter+Code.;Nothing+Else+Matters+But+Clean+Code.;Ride+the+Lightning+%E2%9A%A1+of+the+Web.;Master+of+Puppets%2C+Master+of+CSS.)](https://git.io/typing-svg)
-
+*Student · Indonesia 🇮🇩 
 </div>
 
 ---
@@ -21,11 +18,10 @@
 ```js
 const npalzzz = {
   name      : "Npalzzz",
-  status    : "Student 📚",
+  status    : "Student",
   location  : "Indonesia 🇮🇩",
-  passion   : ["Web Dev", "Metallica 🎸", "Vibe Coding"],
-  motto     : "Nothing Else Matters... but shipping good code.",
-  currently : "Learning & building, one riff at a time 🤘",
+  passion   : ["Web Dev", "Metallica", "Vibe Coding"],
+
 };
 ```
 
@@ -33,7 +29,7 @@ const npalzzz = {
 
 ## `> tech --stack`
 
-**The Four Horsemen of my Stack:**
+**The Horsemen of my Stack:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
