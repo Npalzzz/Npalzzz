@@ -22,7 +22,7 @@ const npalzzz = {
   name      : "Npalzzz",
   status    : "Student",
   location  : "Indonesia 🇮🇩",
-  passion   : ["Web Dev", "Metallica", "Vibe Coding"],
+  passion   : ["Web Dev", "Metal", "Vibe Coding"],
 
 };
 ```
