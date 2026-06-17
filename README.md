@@ -8,7 +8,7 @@
  
 Student · Indonesia 🇮🇩 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0A0A0&center=true&vCenter=true&width=500&lines=Enter+Sandman...+Enter+Code.+⚡;Nothing+Else+Matters+But+Clean+Code.;Master+of+Puppets%2C+Master+of+CSS.;Walk+on+home+boy...+to+your+IDE.+🤘;5+Minutes+Alone+with+my+Bugs+🐛)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0A0A0&center=true&vCenter=true&width=500&lines=Master+of+Puppets;Cowboys+from+Hell;Fade+to+Black;Cemetery+Gates;Battery;Walk;Creeping+Death;Domination)](https://git.io/typing-svg)
  
 </div>
 
