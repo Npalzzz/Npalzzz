@@ -30,9 +30,9 @@ const npalzzz = {
   alias: "Npalzzz",
   status: "Student",
   location: "Indonesia 🇮🇩",
-  currentlyLearning: ["Web Development", "Problem Solving"],
+  currentlyLearning: ["Web Development, How To Live Life"],
   passions: ["Web Dev", "Metal", "Vibe Coding"],
-  motto: "Build first. Perfect it later.",
+  motto: "Per Ardua Ad Astra.",
 };
 ```
 
@@ -60,9 +60,9 @@ const npalzzz = {
 ## `> current --mission`
 
 - Exploring the world of web development
-- Turning random ideas into small projects
-- Learning by building, breaking, and rebuilding
-- Finding the perfect soundtrack for every coding session
+- Finding How To Live Life
+- Playing Video Games Until I Burned Out and Bored (It Wont Happen Lmao)
+- Jamming To Metallica, Pantera, and Rammstein 24/7
 
 ---
 
