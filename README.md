@@ -83,13 +83,13 @@ const npalzzz = {
 
 ## `> music --now-playing`
 
-> “Give me fuel, give me fire, give me that which I desire.”
+> “REVENGE, IM SCREAMING REVENGE AGAIN, WRONG.”
 >
-> — Metallica
+> — Pantera - Mouth For War
 
 <div align="center">
 
-**Current coding soundtrack:** Metallica · Pantera · Black Sabbath
+**Current coding soundtrack:** Metallica · Pantera · Rammstein
 
 </div>
 
