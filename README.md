@@ -7,7 +7,7 @@
 Student from Indonesia who is learning to build things for the web,
 one late-night idea at a time.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Master+of+Puppets;Cowboys+from+Hell;Fade+to+Black;Cemetery+Gates;Battery;Walk;Creeping+Death;Domination)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=A0A0A0\&center=true\&vCenter=true\&width=600\&lines=Master+of+Puppets;Cowboys+from+Hell;Fade+to+Black;Cemetery+Gates;Battery;Walk;Creeping+Death;Domination)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/Npalzzz">
@@ -49,20 +49,30 @@ const npalzzz = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
+### Frameworks & Runtime
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+### Development & Deployment
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
 ## `> current --mission`
 
-- Exploring the world of web development
-- Finding How To Live Life
-- Playing Video Games Until I Burned Out and Bored (It Wont Happen Lmao)
-- Jamming To Metallica, Pantera, and Rammstein 24/7
+* Exploring the world of web development
+* Finding How To Live Life
+* Playing Video Games Until I Burned Out and Bored (It Wont Happen Lmao)
+* Jamming To Metallica, Pantera, and Rammstein 24/7
 
 ---
 
