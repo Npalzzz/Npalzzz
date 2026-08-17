@@ -4,8 +4,7 @@
 
 ### Nice to meet you :>
 
-Student from Indonesia who is learning to build things for the web,
-one late-night idea at a time.
+SMK Student from Indonesia who is learning the wide world of web development, and finding how to live life :3
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=A0A0A0\&center=true\&vCenter=true\&width=600\&lines=Master+of+Puppets;Cowboys+from+Hell;Fade+to+Black;Cemetery+Gates;Battery;Walk;Creeping+Death;Domination)](https://git.io/typing-svg)
 
