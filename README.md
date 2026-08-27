@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=180&section=header&text=Hey,%20I'm%20Azka&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Newbie%20Programmer%20%7C%20Vibe%20Coder%20%7C%20Metalhead&descAlignY=58&descSize=16" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=180&section=header&text=Hi,%20I'm%20Azka&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Newbie%20Programmer%20%7C%20Vibe%20Coder%20%7C%20Metalhead&descAlignY=58&descSize=16" alt="Header banner" />
 
 ### Nice to meet you :>
 
