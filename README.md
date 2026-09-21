@@ -31,7 +31,7 @@ const npalzzz = {
   location: "Indonesia 🇮🇩",
   currentlyLearning: ["Web Development, How To Live Life"],
   passions: ["Web Dev", "Metal", "Vibe Coding"],
-  motto: "Indeed, with hardship comes ease" (The Noble Quran 94:5),
+  motto: "Indeed, with hardship comes ease" (The Holy Quran 94:5),
 };
 ```
 
