@@ -31,7 +31,7 @@ const npalzzz = {
   location: "Indonesia 🇮🇩",
   currentlyLearning: ["Web Development, How To Live Life"],
   passions: ["Web Dev", "Metal", "Vibe Coding"],
-  motto: "Per Ardua Ad Astra.",
+  motto: "Indeed, with hardship comes ease" (The Noble Quran 94:5),
 };
 ```
 
