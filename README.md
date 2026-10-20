@@ -10,12 +10,20 @@ Learning web development, building projects, breaking things, fixing them, and o
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Master+of+Puppets;Cowboys+from+Hell;Fade+to+Black;Cemetery+Gates;Battery;Walk;Creeping+Death;Domination)](https://git.io/typing-svg)
 
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Npalzzz&label=PROFILE%20VIEWS&color=7F1D1D&style=flat-square" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Npalzzz&label=PROFILE%20VIEWS&color=7F1D1D&style=for-the-badge"
+    alt="Profile views"
+  />
   <a href="https://github.com/Npalzzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/Npalzzz?label=FOLLOWERS&style=flat-square&color=D4AF37&labelColor=100B0B" alt="GitHub followers" />
+    <img
+      src="https://img.shields.io/github/followers/Npalzzz?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=100B0B"
+      alt="GitHub followers"
+    />
   </a>
 </p>
+
 
 </div>
 
