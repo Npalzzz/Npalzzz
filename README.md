@@ -117,6 +117,7 @@ const npalzzz = {
 
 ---
 
+
 ## `> connect`
 
 <div align="center">
@@ -124,7 +125,10 @@ const npalzzz = {
 Like something I've built? Feel free to check out my repositories, leave a star, or say hi.
 
 <a href="https://github.com/Npalzzz">
-  <img src="https://img.shields.io/badge/GitHub-Npalzzz-D4AF37?style=for-the-badge&logo=github&logoColor=F8F1E5&labelColor=7F1D1D" alt="Visit Azka's GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Npalzzz-D4AF37?style=for-the-badge&logo=github&logoColor=F8F1E5&labelColor=7F1D1D" alt="GitHub profile" />
+</a>
+<a href="https://www.instagram.com/npal_zzz/">
+  <img src="https://img.shields.io/badge/Instagram-@npal__zzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=100B0B" alt="Instagram @npal_zzz" />
 </a>
 
 <br /><br />
@@ -134,3 +138,4 @@ Like something I've built? Feel free to check out my repositories, leave a star,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:351313,100:100B0B&height=110&section=footer" width="100%" alt="Red and gold footer banner" />
 
 </div>
+
