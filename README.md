@@ -12,10 +12,6 @@ Learning web development, building projects, breaking things, fixing them, and o
 
 
 <p>
-  <img
-    src="https://komarev.com/ghpvc/?username=Npalzzz&label=PROFILE%20VIEWS&color=7F1D1D&style=for-the-badge"
-    alt="Profile views"
-  />
   <a href="https://github.com/Npalzzz?tab=followers">
     <img
       src="https://img.shields.io/github/followers/Npalzzz?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=100B0B"
