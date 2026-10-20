@@ -109,8 +109,6 @@ const npalzzz = {
 
 `METALLICA` · `PANTERA` · `RAMMSTEIN`
 
-*Heavy riffs. Questionable sleep schedules. More code.*
-
 </div>
 
 ---
