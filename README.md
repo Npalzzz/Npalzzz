@@ -36,7 +36,7 @@ const npalzzz = {
   interests: ["Web Development", "Metal", "Gaming"],
   learning: ["Web Development", "Life"],
   favoriteBands: ["Metallica", "Pantera", "Rammstein"],
-  motto: "Indeed, with hardship comes ease (Qur'an 94:5)",
+  motto: "Indeed, with hardship comes ease (The Holy Qur'an 94:5)",
 };
 ```
 
