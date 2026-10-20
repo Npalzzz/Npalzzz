@@ -1,19 +1,19 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=180&section=header&text=Hi,%20I'm%20Azka&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Newbie%20Programmer%20%7C%20Vibe%20Coder%20%7C%20Metalhead&descAlignY=58&descSize=16" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100B0B,50:7F1D1D,100:D4AF37&height=190&section=header&text=Hi,%20I'm%20Azka&fontSize=44&fontColor=F8F1E5&fontAlignY=35&desc=Student%20%7C%20Web%20Developer%20in%20Progress%20%7C%20Metalhead&descAlignY=57&descSize=15" width="100%" alt="Azka's red and gold header banner" />
 
-### Nice to meet you :>
+### `> nice to meet you :>`
 
-SMK Student from Indonesia who is learning the wide world of web development :3
+**SMK Student from Indonesia 🇮🇩**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=A0A0A0\&center=true\&vCenter=true\&width=600\&lines=Master+of+Puppets;Cowboys+from+Hell;Fade+to+Black;Cemetery+Gates;Battery;Walk;Creeping+Death;Domination)](https://git.io/typing-svg)
+Learning web development, building projects, breaking things, fixing them, and occasionally wondering how to live life.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Master+of+Puppets;Cowboys+from+Hell;Fade+to+Black;Cemetery+Gates;Battery;Walk;Creeping+Death;Domination)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/Npalzzz">
-    <img src="https://komarev.com/ghpvc/?username=Npalzzz&label=Profile%20Views&color=374151&style=flat-square" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Npalzzz&label=PROFILE%20VIEWS&color=7F1D1D&style=flat-square" alt="Profile views" />
   <a href="https://github.com/Npalzzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/Npalzzz?label=Followers&style=flat-square&color=374151" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Npalzzz?label=FOLLOWERS&style=flat-square&color=D4AF37&labelColor=100B0B" alt="GitHub followers" />
   </a>
 </p>
 
@@ -29,9 +29,10 @@ const npalzzz = {
   alias: "Npalzzz",
   status: "Student",
   location: "Indonesia 🇮🇩",
-  currentlyLearning: ["Web Development, How To Live Life"],
-  passions: ["Web Dev", "Metal", "Vibe Coding"],
-  motto: "Indeed, with hardship comes ease" (The Holy Quran 94:5),
+  interests: ["Web Development", "Metal", "Gaming"],
+  learning: ["Web Development", "Life"],
+  favoriteBands: ["Metallica", "Pantera", "Rammstein"],
+  motto: "Indeed, with hardship comes ease (Qur'an 94:5)",
 };
 ```
 
@@ -47,35 +48,24 @@ const npalzzz = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-### Frameworks & Templating
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Runtime & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### Database
-
-<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### Deployment
+### Frameworks & Styling
 
 <p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Blade-7F1D1D?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
@@ -83,10 +73,11 @@ const npalzzz = {
 
 ## `> current --mission`
 
-* Exploring the world of web development
-* Finding How To Live Life
-* Playing Video Games Until I Burned Out and Bored (It Wont Happen Lmao)
-* Jamming To Metallica, Pantera, and Rammstein 24/7
+- Learning more about web development, one project at a time.
+- Building things, experimenting, and learning from mistakes.
+- Playing video games until boredom becomes the final boss.
+- Listening to Metallica, Pantera, and Rammstein 24/7.
+- Trying to figure out life while figuring out code.
 
 ---
 
@@ -94,12 +85,13 @@ const npalzzz = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Npalzzz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff&rank_icon=github" alt="Azka's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npalzzz&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Npalzzz&show_icons=true&hide_border=true&bg_color=100B0B&title_color=D4AF37&text_color=E7DCCB&icon_color=E5484D&rank_icon=github" alt="Azka's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npalzzz&layout=compact&hide_border=true&bg_color=100B0B&title_color=D4AF37&text_color=E7DCCB" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Npalzzz&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=F0F6FC" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Npalzzz&hide_border=true&background=100B0B&ring=D4AF37&fire=E5484D&currStreakLabel=D4AF37&sideLabels=E7DCCB&currStreakNum=F8F1E5&sideNums=F8F1E5&dates=9B8F86" alt="GitHub contribution streak" />
 
 </div>
 
@@ -107,13 +99,17 @@ const npalzzz = {
 
 ## `> music --now-playing`
 
-> “REVENGE, IM SCREAMING REVENGE AGAIN, WRONG.”
+> "REVENGE, I'M SCREAMING REVENGE AGAIN, WRONG."
 >
-> — Pantera - Mouth For War
+> — Pantera, *Mouth for War*
 
 <div align="center">
 
-**Current coding soundtrack:** Metallica · Pantera · Rammstein
+**Current coding soundtrack**
+
+`METALLICA` · `PANTERA` · `RAMMSTEIN`
+
+*Heavy riffs. Questionable sleep schedules. More code.*
 
 </div>
 
@@ -123,14 +119,16 @@ const npalzzz = {
 
 <div align="center">
 
-If you like the projects, feel free to drop a star or say hi.
+Like something I've built? Feel free to check out my repositories, leave a star, or say hi.
 
 <a href="https://github.com/Npalzzz">
-  <img src="https://img.shields.io/badge/GitHub-Npalzzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Npalzzz-D4AF37?style=for-the-badge&logo=github&logoColor=F8F1E5&labelColor=7F1D1D" alt="Visit Azka's GitHub profile" />
 </a>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:111827&height=100&section=footer" alt="Footer banner" />
+<sub>Still learning. Still building. Still headbanging.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:351313,100:100B0B&height=110&section=footer" width="100%" alt="Red and gold footer banner" />
 
 </div>
